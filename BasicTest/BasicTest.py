@@ -38,8 +38,6 @@ def basic_test():
     driver.quit()
 
 
-
-
 #Run Method
 basic_test()
 
