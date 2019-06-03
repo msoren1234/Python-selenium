@@ -39,7 +39,10 @@ def basic_test():
 
 
 #Run Method
-basic_test()
+#basic_test()
+
+if __name__ == '__main__':
+    basic_test()
 
 
 # dropdown = new Select(driver.findElement(By.xpath("//select[@id='comp-jvf52vybcollection']")));
