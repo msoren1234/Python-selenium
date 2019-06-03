@@ -43,7 +43,6 @@ class Logintest(unittest.TestCase):
 
         login = LoginPage(driver)
         login.enter_username("Admin5")
-        login.enter_username("Admin5")
         login.enter_password("admin123")
         login.click_login()
 
